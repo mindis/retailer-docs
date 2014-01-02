@@ -25,7 +25,7 @@ import sys, os
 
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
-#extensions = ['sphinxcontrib.httpdomain']
+# extensions = ['sphinxcontrib.httpdomain']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -40,7 +40,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Rangespan Retailer Integration Docs'
+project = u'Rangespan Retailer Documentation'
 copyright = u'2013, Rangespan Ltd.'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -106,11 +106,11 @@ html_theme = 'nature'
 #html_title = None
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
-#html_short_title = None
+html_short_title = "Retailer Docs"
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-#html_logo = None
+html_logo = "rangespan.png"
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
@@ -164,7 +164,7 @@ html_show_sphinx = False
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'RangespanRetailerDocs'
+htmlhelp_basename = 'RangespanRetailerdoc'
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -183,7 +183,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'RangespanAPI.tex', u'Rangespan API Documentation',
+  ('index', 'RangespanRetailerDocs.tex', u'Rangespan Retailer Documentation',
    u'Rangespan Ltd.', 'manual'),
 ]
 
@@ -212,10 +212,10 @@ latex_documents = [
 
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
-man_pages = [
-    ('index', 'rangespanapi', u'Rangespan API Documentation',
-     [u'Rangespan Ltd.'], 1)
-]
+#man_pages = [
+#    ('index', 'rangespanretailerdocs', u'Rangespan Retailer Documentation',
+#     [u'Rangespan Ltd.'], 1)
+#]
 
 # If true, show URL addresses after external links.
 #man_show_urls = False
@@ -226,11 +226,11 @@ man_pages = [
 # Grouping the document tree into Texinfo files. List of tuples
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
-texinfo_documents = [
-  ('index', 'RangespanAPI', u'Rangespan API Documentation',
-   u'Rangespan Ltd.', 'RangespanAPI', 'One line description of project.',
-   'Miscellaneous'),
-]
+#texinfo_documents = [
+#  ('index', 'RangespanAPI', u'Rangespan API Documentation',
+#   u'Rangespan Ltd.', 'RangespanAPI', 'One line description of project.',
+#   'Miscellaneous'),
+#]
 
 # Documents to append as an appendix to all manuals.
 #texinfo_appendices = []
