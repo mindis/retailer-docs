@@ -7,8 +7,8 @@ This page details how Rangespan's search interface helps retailers discover new 
 
 The next section covers tools for `launching products via Rangespan <Launching%20Products.html>`_.
 
-Product Research
-================
+Research Products
+=================
 
 Rangespan offers a searchable Product Universe database of more than 30 million branded general merchandise products available online in the UK. Once you're logged in, click on the 'range' button to access Rangespan Search.
 
@@ -65,8 +65,8 @@ Where available we display the latest known amazon price, `your retail price <in
 .. image:: images/search_prices.png
 
 
-Rangespan Offers
-==================
+Add Selection
+=============
 
 Retailers can use this search interface to launch products sourced from Rangespan. To make this process easier, you can look at all of the factors described above, as well as:
 

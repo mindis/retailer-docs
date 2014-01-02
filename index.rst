@@ -6,8 +6,14 @@ These articles will guide you through your interactions with the Rangespan syste
 
 Features
 ========
-See below details on how to:
- - `Rangespan Product Search <1%20-%20Rangespan%20Product%20Search.html>`_
+
+`Rangespan Product Search <1%20-%20Rangespan%20Product%20Search.html>`_ 
+------------------------------------------------------------------------
+
+The rangespan.com/range page allows you to:
+    - `Research Products within the larger online market <1%20-%20Rangespan%20Product%20Search.html#research-products>`_
+    - `Select extra products for your site <1%20-%20Rangespan%20Product%20Search.html#add-selection>`_
+
 
  - Launch new products
  - Update your product prices and availability
