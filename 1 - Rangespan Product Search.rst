@@ -12,7 +12,7 @@ Product Research
 
 Rangespan offers a searchable Product Universe database of more than 30 million branded general merchandise products available online in the UK. Once you're logged in, click on the 'range' button to access Rangespan Search.
 
-.. image:: ../images/range_button.png
+.. image:: images/range_button.png
     :width: 750px
 
 
