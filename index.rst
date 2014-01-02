@@ -7,7 +7,8 @@ These articles will guide you through your interactions with the Rangespan syste
 Features
 ========
 See below details on how to:
- - Use Rangespan Search for market research
+ - `Rangespan Product Search <1%20-%20Rangespan%20Product%20Search.html>`_
+
  - Launch new products
  - Update your product prices and availability
  - Place orders
