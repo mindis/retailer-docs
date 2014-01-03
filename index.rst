@@ -4,8 +4,8 @@ Rangespan Retailer Integration Docs
 
 These articles will guide you through your interactions with the Rangespan system. If you have any questions, you can contact your account manager or retailers@rangespan.com. 
 
-Features
-========
+New Features
+============
 
 `Rangespan Product Search <1%20-%20Rangespan%20Product%20Search.html>`_ 
 ------------------------------------------------------------------------
@@ -19,11 +19,12 @@ You can also directly launch new products:
     - `Use the raw data for extra analysis or to share more widely <2%20-%20Launching%20Products.html#download-product-data>`_
     - `Click and 'launch' new products on your site <2%20-%20Launching%20Products.html#launch-product-selections>`_
 
- - Update your product prices and availability
- - Place orders
- - Manage orders
- - Customer Service tools
- - Process Rangespan invoices
+
+Overview
+========
+
+The `Integration Documents <https://www.rangespan.com/downloads/Retailer_Integration_Doc.pdf>`_ contain a high level view of the rangespan system as a whole.
+
 
 Technical Details
 =================
@@ -45,3 +46,8 @@ Many retailers find feeds easier to prepare integration for, while using the API
 
 A mixed approach of feeds and API is possible.  A retailer might, for example, use CSV feeds for product attribute information but communicate about orders through the API.
 
+
+Glossary
+========
+
+Concepts and key words (like RIN or Retailer Listing State) can be found in the `Glossary <00%20-%20Glossary>`_.
