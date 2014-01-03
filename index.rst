@@ -12,10 +12,13 @@ Features
 
 The rangespan.com/range page allows you to:
     - `Research Products within the larger online market <1%20-%20Rangespan%20Product%20Search.html#research-products>`_
-    - `Select extra products for your site <1%20-%20Rangespan%20Product%20Search.html#add-selection>`_
+    - `Find Relevant Products sourced by Rangespan <1%20-%20Rangespan%20Product%20Search.html#find-selection>`_
 
+You can also directly launch new products:
+    - `Build and Share Shortlists of appealing products <2%20-%20Launching%20Products.html#building-shortlists>`_
+    - `Use the raw data for extra analysis or to share more widely <2%20-%20Launching%20Products.html#download-product-data>`_
+    - `Click and 'launch' new products on your site <2%20-%20Launching%20Products.html#launch-product-selections>`_
 
- - Launch new products
  - Update your product prices and availability
  - Place orders
  - Manage orders

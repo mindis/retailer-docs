@@ -19,24 +19,30 @@ The most common use of a shortlist is to combine the output of several search re
 
 Creating a shortlist
 --------------------
+Give your shortlist a descriptive name. A useful convention is to add a date (e.g. Electronics - January 2014).
 
-.. image:: ../search_shortlist_add.png
+.. image:: images/search_shortlist_add.png
+
 
 Making a selection
 ------------------
+Once you've used the search options to filter down to a small list of products, you can select all of the corresponding products, or target products one by one. Selections stay when you change pages; you can click 'None' (as in the box below) to clear your selection. 
 
-.. image:: ../search_shortlist_select.png
+.. image:: images/search_shortlist_select.png
+
 
 Adding selections to a shortlist
 --------------------------------
+You can add any selection to any shortlist: simply click 'Add to a shortlist' and select the relevant list from the drop-down box. Note that any duplicates are ignored.
 
-.. image:: ../search_shortlist_addselection.png
+.. image:: images/search_shortlist_addselection.png
 
 
 Managing shortlists
 -------------------
+Once you've made a shortlist, you can search within that shortlist specifically, using all the same tools as when searching the entire catalog. This makes it easy to remove the least relevant products, for example. When a shortlist has served it's purpose, you can delete it by clicking on the 'x' next to it's name.
 
-.. image:: ../search_shortlist_manage.png
+.. image:: images/search_shortlist_manage.png
 
 
 Download product data
@@ -46,4 +52,16 @@ Rangespan allows retailers to access selections in csv form. To do so, retailers
 
 Launch product selections
 =========================
-Rangespan makes it easy to launch any number of products - just make a selection and click the launch button. For more detail on what happens after you've launched a product, see `this section <rangespan.com>`_. 
+Rangespan makes it easy to launch any number of products - just make a selection and click the launch button. Note that you can launch an entire shortlist (recommended) by selecting all the products in a shortlist. You can also launch a subset of a shortlist, or even products outside of a shortlist too.
+
+.. image:: images/search_launch_selection.png
+
+If all goes well:
+
+.. image:: images/search_launch_confirmation1.png
+
+You can filter newly launched products in 'My Selection' after 24-48h. If you do launch a selection with a product you've already launched, you'll get a notification and the rest of the selection will go through, see an example message below:
+
+.. image:: images/search_launch_confirmation2.png
+
+

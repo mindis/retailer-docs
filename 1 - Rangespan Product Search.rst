@@ -65,10 +65,10 @@ Where available we display the latest known amazon price, `your retail price <in
 .. image:: images/search_prices.png
 
 
-Add Selection
-=============
+Find Selection
+==============
 
-Retailers can use this search interface to launch products sourced from Rangespan. To make this process easier, you can look at all of the factors described above, as well as:
+Retailers can use this search interface to search through products sourced from Rangespan. To make this process easier, you can look at all of the factors described above, as well as:
 
 - Competitiveness filters
 - Availability filters / range matching

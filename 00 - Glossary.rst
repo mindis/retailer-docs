@@ -47,3 +47,8 @@ Referred to as just state when there is no ambiguity. Once a retailer selects a 
  - 'live' listings are buyable
  - 'suspended' listings are RINs temporarily removed from sale
  - 'terminated' listings are no longer selling and removed from feed exchanges
+
+Shortlists
+==========
+These can be set up on rangespan.com/range. A shortlist is NOT a final selection. Once a shortlist is ready to launch, you can click the corresponding 'Launch' button on rangespan.com/range, which will trigger the listing process.
+
