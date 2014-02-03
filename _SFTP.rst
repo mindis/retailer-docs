@@ -144,17 +144,19 @@ Orders
 
  - sftp.rangespan.com/data/rangespan/retailers/[retailer]/orders
 
-\ 
+ 
 
 Retailers can place orders by dropping a properly formatted file into the relevant SFTP directory:
 
  - sftp.rangespan.com/data/rangespan/retailers/[retailer]/orders/upload
 
+ 
 
 Note that it is up to the retailer to get a succesful response from Rangespan: if there are errors in the file you drop, the associated orders will not be processed. Responses will appear in:
 
  - sftp.rangespan.com/data/rangespan/retailers/[retailer]/orders/responses
 
+ 
 
 You can see all ingested orders on our webiste ( https://www.rangespan.com/orders/retailer ) or in the SFTP directory:
 
