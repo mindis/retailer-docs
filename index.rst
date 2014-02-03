@@ -56,4 +56,4 @@ A mixed approach of feeds and API is possible.  A retailer might, for example, u
 Glossary
 ========
 
-Concepts and key words (like RIN or Retailer Listing State) can be found in the `Glossary <00%20-%20Glossary>`_.
+Concepts and key words (like RIN or Retailer Listing State) can be found in the `Glossary <00%20-%20Glossary.html>`_.
