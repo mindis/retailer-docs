@@ -180,6 +180,7 @@ Place a new order - Example
     "100019355","R0000XCA7J","","2013-12-08","1","B131, Macmillan house","Paddington Station"
     
 (continued)
+
 .. csv-table::
     :header:"customer_town","customer_county","customer_postcode","customer_country","customer_phone","customer_name","customer_email"
 
