@@ -20,10 +20,10 @@ You can also directly launch new products:
     - `Click and 'launch' new products on your site <2%20-%20Launching%20Products.html#launch-product-selections>`_
 
 
-Rangespan Product Data
-----------------------
+`Rangespan Product Data <http://rangespan-retailer-integration.readthedocs.org/en/latest/Product%20Data.html>`_
+---------------------------------------------------------------------------------------------------------------
 
-Rangespan aggregates, transforms and performs Quality Control on item data from suppliers and manufacturers. This is stored as Basic and Extended Attributes. Enterprise Retailers can provide Custom Template Guidelines.
+Rangespan aggregates, transforms and performs Quality Control on item data from suppliers and manufacturers. This is stored as `Basic <http://rangespan-retailer-integration.readthedocs.org/en/latest/Product%20Data.html#basic-attributes>`_ and `Extended Attributes <http://rangespan-retailer-integration.readthedocs.org/en/latest/Product%20Data.html#extended-attributes>`_. Enterprise Retailers can provide `Custom Template Guidelines <http://rangespan-retailer-integration.readthedocs.org/en/latest/Product%20Data.html#custom-templates>`_.
 
 
 Rangespan Consolidated Offers

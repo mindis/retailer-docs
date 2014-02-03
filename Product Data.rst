@@ -16,9 +16,10 @@ When a product is selected by a retailer, Rangespan ensures we have the followin
 - Description
 - an image 
 
-See the relevant FTP / API sections.
+See the relevant `FTP <http://rangespan-retailer-integration.readthedocs.org/en/latest/_SFTP.html#catalog-basic-overview>`_ / `API <https://www.rangespan.com/docs/api/v2/index.html#catalog>`_ sections.
 
-
+.. image:: images/product_data_basic_attributes.png
+    :width: 750px
 
 
 Extended Attributes
@@ -28,5 +29,5 @@ Extended Attributes
 
 
 
-Custome Templates
------------------
+Custom Templates
+----------------

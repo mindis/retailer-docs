@@ -7,7 +7,7 @@ Last updated: 2014-02-02
 
 Connection Details
 ==================
-sftp.rangespan.com
+**sftp.rangespan.com**
 
 Use your rangespan account name as the username. Password communicated seperately by your Rangespan account manager. 
 
@@ -115,7 +115,7 @@ Extended Catalog - Example
 Offers
 ======
 
- - sftp.rangespan.com/data/rangespan/retailers/[retailer]/offers
+**sftp.rangespan.com/data/rangespan/retailers/[retailer]/offers**
 
 Rangespan generates 4 files daily, with the latest pricing and inventory information.
 
@@ -142,25 +142,19 @@ Offers All - Example
 Orders
 ======
 
- - sftp.rangespan.com/data/rangespan/retailers/[retailer]/orders
+**sftp.rangespan.com/data/rangespan/retailers/[retailer]/orders**
 
- 
 
 Retailers can place orders by dropping a properly formatted file into the relevant SFTP directory:
-
- - sftp.rangespan.com/data/rangespan/retailers/[retailer]/orders/upload
-
- 
+**sftp.rangespan.com/data/rangespan/retailers/[retailer]/orders/upload**
 
 Note that it is up to the retailer to get a succesful response from Rangespan: if there are errors in the file you drop, the associated orders will not be processed. Responses will appear in:
-
- - sftp.rangespan.com/data/rangespan/retailers/[retailer]/orders/responses
+**sftp.rangespan.com/data/rangespan/retailers/[retailer]/orders/responses**
 
  
 
 You can see all ingested orders on our webiste ( https://www.rangespan.com/orders/retailer ) or in the SFTP directory:
-
- - sftp.rangespan.com/data/rangespan/retailers/[retailer]/orders/processed
+**sftp.rangespan.com/data/rangespan/retailers/[retailer]/orders/processed**
 
 
 
