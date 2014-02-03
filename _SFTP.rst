@@ -182,7 +182,7 @@ Place a new order - Example
 (continued)
 
 .. csv-table::
-    :header:"customer_town","customer_county","customer_postcode","customer_country","customer_phone","customer_name","customer_email"
+    :header: "customer_town","customer_county","customer_postcode","customer_country","customer_phone","customer_name","customer_email"
 
     "London","","W2 1FT","GB","02074022331 ","Mr T. Order","info@rangespan.com"
 
