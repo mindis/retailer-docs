@@ -26,15 +26,10 @@ You can also directly launch new products:
 Rangespan aggregates, transforms and performs Quality Control on item data from suppliers and manufacturers. This is stored as `Basic <http://rangespan-retailer-integration.readthedocs.org/en/latest/Product%20Data.html#basic-attributes>`_ and `Extended Attributes <http://rangespan-retailer-integration.readthedocs.org/en/latest/Product%20Data.html#extended-attributes>`_. Enterprise Retailers can provide `Custom Template Guidelines <http://rangespan-retailer-integration.readthedocs.org/en/latest/Product%20Data.html#custom-templates>`_.
 
 
-Rangespan Consolidated Offers
------------------------------
+`Rangespan Consolidated Offers <http://rangespan-retailer-integration.readthedocs.org/en/latest/Consolidated%20Offers.html>`_
+-----------------------------------------------------------------------------------------------------------------------------
 Retailers access the best prices from our suppliers daily. API-integrated retailers have access to live inventory; we update SFTP-integrated retailers 4 times a day with the latest availability. 
 
-
-Overview
-========
-
-The `Integration Documents <https://www.rangespan.com/downloads/Retailer_Integration_Doc.pdf>`_ contain a high level view of the rangespan system as a whole.
 
 
 Technical Details
