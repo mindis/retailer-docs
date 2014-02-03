@@ -3,7 +3,7 @@ Rangespan Retailer FTP Integration
 
 Versioning
 ==========
-Last updated: 2013-10-08
+Last updated: 2014-02-02
 
 Connection Details
 ==================
@@ -40,6 +40,15 @@ Timing and Responses
 
 The rangespan system check each FTP folder for an update every 10 minutes. The files are processed within a couple of minutes, and a response file is generated once that is complete. If there were **any** errors, the entire file will be rejected.
 
+We have explicit error handling for the following:
+- "Missing mandatory customer data" - The following customer data fields are mandatory ('name', 'address_line_1', 'town', 'country', 'postcode', 'email')
+- "Missing retailer reference"
+- "Placed date is too old" - Placed date must be within 7 days of ingestion date
+- "Quantity must be greater than zero"  
+- "Invalid RIN" - Retailer has not selected the given RIN
+- "Unable to parse (placed_date|unit_cost_ex_vat)" - Input data is not formatted correctly
+- "Offer unavailable" - not price exists for RIN / placed date
+- "Retailer reference already exists" - an order with this reference was already submitted.
 
 
 Catalog
@@ -166,9 +175,14 @@ Place a new order - Overview
 Place a new order - Example
 ---------------------------
 .. csv-table::
-   :header: "retailer_reference","rin","unit_cost_ex_vat","placed_date","quantity","customer_address_line_1","customer_address_line_2","customer_town","customer_county","customer_postcode","customer_country","customer_phone","customer_name","customer_email"
+   :header: "retailer_reference","rin","unit_cost_ex_vat","placed_date","quantity","customer_address_line_1","customer_address_line_2"
 
-    "100019355","R0000XCA7J","","2013-12-08","1","B131, Macmillan house","Paddington Station","London","","W2 1FT","GB","02074022331 ","Mr T. Order","info@rangespan.com"
+    "100019355","R0000XCA7J","","2013-12-08","1","B131, Macmillan house","Paddington Station"
+    
+(continued)
+.. csv-table::
+    :header:"customer_town","customer_county","customer_postcode","customer_country","customer_phone","customer_name","customer_email"
 
+    "London","","W2 1FT","GB","02074022331 ","Mr T. Order","info@rangespan.com"
 
 
