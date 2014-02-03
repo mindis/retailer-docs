@@ -19,15 +19,16 @@ When a product is selected by a retailer, Rangespan ensures we have the followin
 See the relevant `FTP <http://rangespan-retailer-integration.readthedocs.org/en/latest/_SFTP.html#catalog-basic-overview>`_ / `API <https://www.rangespan.com/docs/api/v2/index.html#catalog>`_ sections.
 
 .. image:: images/product_data_basic_attributes.png
-    :width: 750px
-
+    :width: 1000px
 
 Extended Attributes
 -------------------
 
+Where relevant Rangespan will store specific facts about a product (usually, these will be category specific attributes). We communicate the raw values back to our SME retailers through the `API <https://www.rangespan.com/docs/api/v2/index.html#catalog>`_ or in the `extended catalog file <http://rangespan-retailer-integration.readthedocs.org/en/latest/_SFTP.html#extended-catalog-overview>`_ dropped on the relevant SFTP folder.
 
 
-
+.. image:: images/product_data_basic_attributes.png
+    :width: 1000px
 
 Custom Templates
 ----------------
