@@ -35,20 +35,6 @@ Pricing
 
 Throughout, prices are described as a number with 2 decimal places. Do NOT include '£' or 'GBP' in any of the price fields. Prices are in GBP.
 
-Timing and Responses
-====================
-
-The rangespan system check each FTP folder for an update every 10 minutes. The files are processed within a couple of minutes, and a response file is generated once that is complete. If there were **any** errors, the entire file will be rejected.
-
-We have explicit error handling for the following:
-- "Missing mandatory customer data" - The following customer data fields are mandatory ('name', 'address_line_1', 'town', 'country', 'postcode', 'email')
-- "Missing retailer reference"
-- "Placed date is too old" - Placed date must be within 7 days of ingestion date
-- "Quantity must be greater than zero"  
-- "Invalid RIN" - Retailer has not selected the given RIN
-- "Unable to parse (placed_date|unit_cost_ex_vat)" - Input data is not formatted correctly
-- "Offer unavailable" - not price exists for RIN / placed date
-- "Retailer reference already exists" - an order with this reference was already submitted.
 
 
 Catalog
@@ -169,7 +155,7 @@ Place a new order - Overview
 
    "Type", "Retailer Generated"
    "Description", "New orders, uploaded by Retailer"
-   "Filename", "orders_all_[YYYYMMDD].csv"
+   "Filename", "place_orders_[YYYYMMDD]_[HHMMSS].csv"
 
 
 Place a new order - Example
@@ -177,13 +163,63 @@ Place a new order - Example
 .. csv-table::
    :header: "retailer_reference","rin","unit_cost_ex_vat","placed_date","quantity","customer_address_line_1","customer_address_line_2"
 
-    "100019355","R0000XCA7J","","2013-12-08","1","B131, Macmillan house","Paddington Station"
+    "100019355","R0000XCA7J","","2014-02-07 00:00:00","1","B131, Macmillan house","Paddington Station"
     
 (continued)
 
 .. csv-table::
     :header: "customer_town","customer_county","customer_postcode","customer_country","customer_phone","customer_name","customer_email"
 
-    "London","","W2 1FT","GB","02074022331 ","Mr T. Order","info@rangespan.com"
+    "London","","W2 1FT","UK","02074022331 ","Mr T. Order","info@rangespan.com"
 
+Place a new order - Responses
+-----------------------------
+
+The rangespan system check each FTP folder for an update every 10 minutes. The files are processed within a couple of minutes, and a response file is generated once that is complete. If there were **any** errors, the entire file will be rejected.
+
+We have explicit error handling for the following:
+
+- "Missing mandatory customer data" - The following customer data fields are mandatory ('name', 'address_line_1', 'town', 'country', 'postcode', 'email')
+- "Missing retailer reference"
+- "Placed date is too old" - Placed date must be within 7 days of ingestion date
+- "Quantity must be greater than zero"  
+- "Invalid RIN" - Retailer has not selected the given RIN
+- "Unable to parse (placed_date|unit_cost_ex_vat)" - Input data is not formatted correctly
+- "Offer unavailable" - not price exists for RIN / placed date
+- "Retailer reference already exists" - an order with this reference was already submitted.
+
+
+Order Notifications - Overview
+------------------------------
+
+.. csv-table::  
+   :stub-columns: 1
+   :widths: 20, 80
+
+   "Type", "Rangespan Generated"
+   "Description", "Order status for any orders that have changed in the last 24 hours, published by Rangespan daily"
+   "Filename", "orders_all_[YYYYMMDD].csv"
+
+
+Order Notfications - Example
+----------------------------
+
+.. csv-table::
+   :header: "rangespan_reference", "retailer_reference","rin","state","quantity","unit_cost_ex_vat","vat_rate","customer_title","customer_address_line_1","customer_address_line_2", "customer_address_line_3"
+
+    "12345","100019355","R0000XCA7J","processing","1","15.48","0.2","","B131, Macmillan house","Paddington Station",""
+
+(continued)
+
+.. csv-table::
+    :header: "customer_town","customer_county",	"customer_country", "customer_postcode","customer_phone","customer_alternate_phone","customer_email"
+    
+    "London", "", "UK", "W2 1FT", "02074022331", "", "info@rangespan.com"
+
+(continued)
+
+.. csv-table::
+    :header: "shipping_method",	"shipping_provider","shipping_reference","placed_date","created_date","shipping_date","promise_date","last_modified_date"
+    
+    "0", "Royal Mail", "RM12345", "2014-02-07 00:00:00", "2014-02-07 00:00:00", "", "2014-02-12 00:00:00", "2014-02-07 00:00:00"
 
