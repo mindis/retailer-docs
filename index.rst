@@ -4,8 +4,8 @@ Rangespan Retailer Integration Docs
 
 These articles will guide you through your interactions with the Rangespan system. If you have any questions, you can contact your account manager or retailers@rangespan.com. 
 
-New Features
-============
+Features
+========
 
 `Rangespan Product Search <1%20-%20Rangespan%20Product%20Search.html>`_ 
 ------------------------------------------------------------------------
@@ -18,6 +18,17 @@ You can also directly launch new products:
     - `Build and Share Shortlists of appealing products <2%20-%20Launching%20Products.html#building-shortlists>`_
     - `Use the raw data for extra analysis or to share more widely <2%20-%20Launching%20Products.html#download-product-data>`_
     - `Click and 'launch' new products on your site <2%20-%20Launching%20Products.html#launch-product-selections>`_
+
+
+Rangespan Product Data
+----------------------
+
+Rangespan aggregates, transforms and performs Quality Control on item data from suppliers and manufacturers. This is stored as Basic and Extended Attributes. Enterprise Retailers can provide Custom Template Guidelines.
+
+
+Rangespan Consolidated Offers
+-----------------------------
+Retailers access the best prices from our suppliers daily. API-integrated retailers have access to live inventory; we update SFTP-integrated retailers 4 times a day with the latest availability. 
 
 
 Overview

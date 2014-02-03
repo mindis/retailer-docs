@@ -13,6 +13,9 @@ Description
 ===========
 Rangespan provides a standard description of a product. This can be text or a list of features.
 
+Enterprise Retailer
+===================
+Enterprise Retailers pay higher monthly fees to Rangespan in exchange for a highly tailored service, including custom attribute data. 
 
 GTIN
 ====
@@ -51,4 +54,5 @@ Referred to as just state when there is no ambiguity. Once a retailer selects a 
 Shortlists
 ==========
 These can be set up on rangespan.com/range. A shortlist is NOT a final selection. Once a shortlist is ready to launch, you can click the corresponding 'Launch' button on rangespan.com/range, which will trigger the listing process.
+
 
