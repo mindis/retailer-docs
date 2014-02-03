@@ -35,3 +35,10 @@ For example:
 
 Custom Templates
 ----------------
+
+Enterprise retailers can request custom data templates following their own format definitions. The guidelines are sent to Rangespan for each new category or product type that is selected. Rangespan will map the retailer's category to our internal taxonomy, and complete attribute templates as specified. For example, an Argos telescope listing might specifically require a formatted maximum magnification.
+
+For example:
+
+.. image:: images/product_data_custom_attributes.png
+    :width: 1000px
