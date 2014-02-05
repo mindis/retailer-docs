@@ -202,17 +202,28 @@ Place a new order - Overview
 
 Place a new order - Example
 ---------------------------
-.. csv-table::
-   :header: "retailer_reference","rin","unit_cost_ex_vat","placed_date","quantity","customer_address_line_1","customer_address_line_2"
+ :download:`Download this example <csv_examples/place_order_example.csv>`.
 
-    "100019355","R0000XCA7J","","2014-02-07 00:00:00","1","B131, Macmillan house","Paddington Station"
-    
-(continued)
 
 .. csv-table::
-    :header: "customer_town","customer_county","customer_postcode","customer_country","customer_phone","customer_name","customer_email"
+   :stub-columns: 1
 
-    "London","","W2 1FT","UK","02074022331 ","Mr T. Order","info@rangespan.com"
+    "retailer_reference","100019355"
+    "rin","R0000XCA7J"
+    "unit_cost_ex_vat",""
+    "placed_date","2014-02-07 00:00:00"
+    "quantity","1"
+    "customer_address_line_1","B131"
+    "customer_address_line_2"," Macmillan house"
+    "customer_town","Paddington Station"
+    "customer_county"," London"
+    "customer_postcode","W2 1FT"
+    "customer_country","UK"
+    "customer_phone","02074022331"
+    "customer_name", "Mr T. Order"
+    "customer_email","info@rangespan.com"
+
+
 
 Place a new order - Responses
 -----------------------------
