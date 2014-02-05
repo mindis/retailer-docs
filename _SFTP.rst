@@ -293,3 +293,5 @@ Order Notfications - Example
     "shipping_date",""
     "promise_date","2014-02-12 00:00:00"
     "last_modified_date",""
+
+*Note: This table was transposed for readability*
