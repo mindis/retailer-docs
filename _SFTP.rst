@@ -65,7 +65,7 @@ Catalog Basic - Example
 .. csv-table::
     :stub-columns: 1
 
-    "rin", R0000EW5RX","R0000EVZVF"
+    "rin","R0000EW5RX","R0000EVZVF"
     "state","live","live"
     "category","tablet-cases","activity-toys"
     "item_name","Amazon Kindle Flip-Arm LED Light, Black","Tomy 71515 Be Baby - Aqua Splash and Print"
@@ -151,11 +151,23 @@ Offers All - Overview
 
 Offers All - Example
 --------------------
-.. csv-table::
-   :header: "rin","state","inventory","cost_ex_vat","cost_inc_vat","vat_amount","vat_rate","valid_from","valid_to","amazon_price"
 
-   "R0000EW5RX","live","125","4.73","5.68","0.95","0.2","2013-12-17T00:00:00","2013-12-17T23:59:59",""
-   "R0000EVZVF","live","78","9.5","11.4","1.9","0.2","2013-12-17T00:00:00","2013-12-17T23:59:59","13"
+ :download:`Download this example <csv_examples/offers_all_example.csv>`.
+
+
+.. csv-table::
+   :stub-columns: 1
+
+    "rin","R0000EW5RX","R0000EVZVF"
+    "state","live","live"
+    "inventory","125","78"
+    "cost_ex_vat","4.73","9.5"
+    "cost_inc_vat","5.68","11.4"
+    "vat_amount","0.95","1.9"
+    "vat_rate","0.2","0.2"
+    "valid_from","2013-12-17T00:00:00","2013-12-17T00:00:00"
+    "valid_to","2013-12-17T23:59:59","2013-12-17T23:59:59"
+    "amazon_price","","13"
 
 Orders
 ======
