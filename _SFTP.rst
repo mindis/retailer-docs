@@ -76,7 +76,7 @@ Catalog Basic - Example
  
 *Note: the descriptions were shortened for readability here.*
 
- See :download:`this example <csv_examples/Catalog_basic_example.csv>`.
+ :download:`Download this example <csv_examples/Catalog_basic_example.csv>`.
 
 Extended Catalog - Overview
 ----------------------------
@@ -121,6 +121,9 @@ Extended Catalog - Example
     "R0000EVZVF","supports_powering_by_phantom_power","FALSE"
     "R0000EVZVF","supports_powering_by_phone","FALSE"
     "R0000EVZVF","supports_powering_by_battery","FALSE"
+
+ :download:`Download this example <csv_examples/catalog_extended_example.csv>`.
+
 
 Offers
 ======
