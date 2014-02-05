@@ -70,13 +70,13 @@ Catalog Basic - Example
     "manufacturer","Opus","Tomy"
     "manufacturer_part_number","OP10002","71515"
     "description","Super LED light is as bright as six regular LEDs [..]","No mess fun for parent and baby[...]"
-    "asin","","
+    "asin","",""
     "image_url","http://media.rangespan.com/image/R0000EW5RX","http://media.rangespan.com/image/R0000EVZVF"
     "image_date","2012-07-15 19:40:00","2013-11-12 19:10:00"
  
 *Note: the descriptions were shortened for readability here.*
 
-.. :download: `Download this example </csv_examples/Catalog_basic_example.csv>`_
+:download: `Download this example </csv_examples/Catalog_basic_example.csv>`_
 
 Extended Catalog - Overview
 ----------------------------
