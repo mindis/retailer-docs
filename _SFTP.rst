@@ -77,7 +77,9 @@ Catalog Basic - Example
     "image_url","http://media.rangespan.com/image/R0000EW5RX","http://media.rangespan.com/image/R0000EVZVF"
     "image_date","2012-07-15 19:40:00","2013-11-12 19:10:00"
  
-*Note: the descriptions were shortened for readability here.*
+*Note: The descriptions were shortened for readability*
+*Note also: This table was transposed for readability*
+
 
 
 Extended Catalog - Overview
@@ -169,6 +171,9 @@ Offers All - Example
     "valid_to","2013-12-17T23:59:59","2013-12-17T23:59:59"
     "amazon_price","","13"
 
+*Note: This table was transposed for readability*
+
+
 Orders
 ======
 
@@ -224,6 +229,7 @@ Place a new order - Example
     "customer_email","info@rangespan.com"
 
 
+*Note: This table was transposed for readability*
 
 Place a new order - Responses
 -----------------------------
@@ -256,23 +262,31 @@ Order Notifications - Overview
 
 Order Notfications - Example
 ----------------------------
+ :download:`Download this example <csv_examples/order_notifications_example.csv>`.
 
-.. csv-table::
-   :header: "rangespan_reference", "retailer_reference","rin","state","quantity","unit_cost_ex_vat","vat_rate","customer_title","customer_address_line_1","customer_address_line_2", "customer_address_line_3"
-
-    "12345","100019355","R0000XCA7J","processing","1","15.48","0.2","","B131, Macmillan house","Paddington Station",""
-
-(continued)
-
-.. csv-table::
-    :header: "customer_town","customer_county",	"customer_country", "customer_postcode","customer_phone","customer_alternate_phone","customer_email"
-    
-    "London", "", "UK", "W2 1FT", "02074022331", "", "info@rangespan.com"
-
-(continued)
-
-.. csv-table::
-    :header: "shipping_method",	"shipping_provider","shipping_reference","placed_date","created_date","shipping_date","promise_date","last_modified_date"
-    
-    "0", "Royal Mail", "RM12345", "2014-02-07 00:00:00", "2014-02-07 00:00:00", "", "2014-02-12 00:00:00", "2014-02-07 00:00:00"
-
+    "rangespan_reference","12345"
+    "retailer_reference","100019355"
+    "rin","R0000XCA7J"
+    "state","processing"
+    "quantity","1"
+    "unit_cost_ex_vat","15.48"
+    "vat_rate","0.2"
+    "customer_title",""
+    "customer_address_line_1","B131, Macmillan house"
+    "customer_address_line_2","Paddington Station"
+    "customer_address_line_3",""
+    "customer_town","London"
+    "customer_county",""
+    "customer_country","UK"
+    "customer_postcode","W2 1FT"
+    "customer_phone"," 02074022331"
+    "customer_alternate_phone","" 
+    "customer_email","info@rangespan.com"
+    "shipping_method","0"
+    "shipping_provider","Royal Mail"
+    "shipping_reference","RM12345" 
+    "placed_date","2014-02-07 00:00:00"
+    "created_date"," 2014-02-07 00:00:00"
+    "shipping_date",""
+    "promise_date","2014-02-12 00:00:00"
+    "last_modified_date",""
