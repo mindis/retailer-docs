@@ -59,6 +59,9 @@ Catalog Basic - Overview
  
 Catalog Basic - Example
 -----------------------
+
+ :download:`Download this example <csv_examples/Catalog_basic_example.csv>`.
+
 .. csv-table::
     :stub-columns: 1
 
@@ -76,7 +79,6 @@ Catalog Basic - Example
  
 *Note: the descriptions were shortened for readability here.*
 
- :download:`Download this example <csv_examples/Catalog_basic_example.csv>`.
 
 Extended Catalog - Overview
 ----------------------------
@@ -90,6 +92,9 @@ Extended Catalog - Overview
 
 Extended Catalog - Example
 --------------------------
+
+ :download:`Download this example <csv_examples/catalog_extended_example.csv>`.
+
 .. csv-table::  
    :header: rin, key, value
    :widths: 20, 40, 100
@@ -121,10 +126,8 @@ Extended Catalog - Example
     "R0000EVZVF","supports_powering_by_phantom_power","FALSE"
     "R0000EVZVF","supports_powering_by_phone","FALSE"
     "R0000EVZVF","supports_powering_by_battery","FALSE"
-    
 
 
- :download:`Download this example <csv_examples/catalog_extended_example.csv>`.
 
 
 Offers
