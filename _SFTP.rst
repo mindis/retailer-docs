@@ -59,14 +59,25 @@ Catalog Basic - Overview
  
 Catalog Basic - Example
 -----------------------
-.. csv-table:: 
-    :header: rin, state,category,item_name,gtin,manufacturer,manufacturer_part_number,description,asin,image_url,image_date
+.. csv-table::
+    :stub-columns: 1
 
-    "R0000EW5RX","live","tablet-cases","Amazon Kindle Flip-Arm LED Light, Black","05052801822010","Opus","OP10002","Super LED light is as bright as six regular LEDs [..]","","http://media.rangespan.com/image/R0000EW5RX","15/07/2012 19:40"
-    "R0000EVZVF","live","activity-toys","Tomy 71515 Be Baby - Aqua Splash and Print","05011666715158","Tomy","71515","No mess fun for parent and baby[...]","","http://media.rangespan.com/image/R0000EVZVF","12/11/2013 19:10"
+    "rin", R0000EW5RX","R0000EVZVF"
+    "state","live","live"
+    "category","tablet-cases","activity-toys"
+    "item_name","Amazon Kindle Flip-Arm LED Light, Black","Tomy 71515 Be Baby - Aqua Splash and Print"
+    "gtin","5052801822010","5011666715158"
+    "manufacturer","Opus","Tomy"
+    "manufacturer_part_number","OP10002","71515"
+    "description","Super LED light is as bright as six regular LEDs [..]","No mess fun for parent and baby[...]"
+    "asin","","
+    "image_url","http://media.rangespan.com/image/R0000EW5RX","http://media.rangespan.com/image/R0000EVZVF"
+    "image_date","2012-07-15 19:40:00","2013-11-12 19:10:00"
  
 *Note: the descriptions were shortened for readability here.*
- 
+
+.. :download: `Download this example </csv_examples/Catalog_basic_example.csv>`_
+
 Extended Catalog - Overview
 ----------------------------
 .. csv-table::  
