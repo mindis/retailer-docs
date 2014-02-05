@@ -76,7 +76,7 @@ Catalog Basic - Example
  
 *Note: the descriptions were shortened for readability here.*
 
- See :download:`this example <../csv_examples/Catalog_basic_example.csv>`.
+ See :download:`this example <csv_examples/Catalog_basic_example.csv>`.
 
 Extended Catalog - Overview
 ----------------------------
