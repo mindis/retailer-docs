@@ -264,6 +264,9 @@ Order Notfications - Example
 ----------------------------
  :download:`Download this example <csv_examples/order_notifications_example.csv>`.
 
+.. csv-table::
+   :stub-columns: 1
+
     "rangespan_reference","12345"
     "retailer_reference","100019355"
     "rin","R0000XCA7J"
