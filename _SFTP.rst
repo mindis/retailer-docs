@@ -76,7 +76,7 @@ Catalog Basic - Example
  
 *Note: the descriptions were shortened for readability here.*
 
-`Download this example </csv_examples/Catalog_basic_example.csv>`_
+:download:`Download this example </csv_examples/Catalog_basic_example.csv>`_
 
 Extended Catalog - Overview
 ----------------------------
@@ -94,7 +94,6 @@ Extended Catalog - Example
    :header: rin, key, value
    :widths: 20, 40, 100
    
-    "rin","attribute","value"
     "R0000EW5RX","vat_code_uk","standard_rate"
     "R0000EW5RX","manufacturer_part_number","OP10002"
     "R0000EW5RX","manufacturer","Opus"
