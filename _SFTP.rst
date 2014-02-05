@@ -122,7 +122,7 @@ Extended Catalog - Example
     "R0000EVZVF","supports_powering_by_phone","FALSE"
     "R0000EVZVF","supports_powering_by_battery","FALSE"
     
-**
+
 
  :download:`Download this example <csv_examples/catalog_extended_example.csv>`.
 
