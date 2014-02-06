@@ -8,9 +8,6 @@ See below a short introduction to the Rangespan system:
 
 .. youtube:: http://www.youtube.com/watch?v=sMYVMgkcl_g
 
-.. youtube:: http://www.youtube.com/watch?v=Ql9sn3aLLlI
-
-
 Features
 ========
 
