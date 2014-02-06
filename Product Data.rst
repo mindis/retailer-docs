@@ -21,7 +21,6 @@ See the relevant `FTP <http://rangespan-retailer-integration.readthedocs.org/en/
 For example:
 
 .. image:: images/product_data_basic_attributes.png
-    :width: 1000px
 
 Extended Attributes
 -------------------
@@ -31,7 +30,6 @@ Where relevant Rangespan will store specific facts about a product (usually, the
 For example:
 
 .. image:: images/product_data_extended_attributes.png
-    :width: 1000px
 
 Custom Templates
 ----------------
@@ -43,4 +41,3 @@ Retailers should provide the list of relevant attributes and list out any format
 For example: an Argos telescope listing might specifically require a formatted maximum magnification.
 
 .. image:: images/product_data_custom_attributes.png
-    :width: 1000px

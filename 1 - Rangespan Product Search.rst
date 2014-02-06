@@ -1,5 +1,5 @@
-Overview
-========
+Rangespan Product Search
+========================
 
 Retailers can browse the rangespan catalogue by logging in to `rangespan.com/range <http://www.rangespan.com/range>`_.
 
