@@ -1,4 +1,3 @@
-***********************************
 Rangespan Retailer Integration Docs
 ***********************************
 
@@ -7,6 +6,8 @@ These articles will guide you through your interactions with the Rangespan syste
 See below a short introduction to the Rangespan system:
 
 .. youtube:: http://www.youtube.com/watch?v=sMYVMgkcl_g
+
+
 
 Features
 ========
