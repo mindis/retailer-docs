@@ -30,17 +30,20 @@ Orders will be in one of the following states:
    :header: Order State, Description
    :widths: 20,80   
    
-    "Pending", "Rangespan's system is processing these orders - these have not yet been assigned to a supplier for shipment."
+    "Pending", "Rangespan's system is processing these orders
+    These have not yet been assigned to a supplier for shipment."
     "Processing", "Orders have been assigned to a supplier for shipment.
     Before returning a product, some suppliers might prefer a replacement to a refund.
-    In these cases the order is placed into 'Processing' again."
-    "At Risk", "Some order are temporarily 'At Risk' while Rangespan escalates any supply issues with our vendors."
-    "Shipped", "Order has been shipped. Depending on the shipping method, it can be 1-3 days before the customer receives the item.
-    If the supplier uses a tracked delivery method (higher value orders) 
-    tracking details are made available from the time an order enters this state."
+In these cases the order is placed into 'Processing' again."
+    "At Risk", "Rangespan escalates any issues with 'At Risk' orders
+    Usually, this involves following up with our vendors."
+    "Shipped", "Order has been shipped.
+    Depending on the shipping method, it can be 1-3 days before the customer receives the item.
+If the supplier uses a tracked delivery method (higher value orders) 
+tracking details are made available from the time an order enters this state."
     "Cancelled", "A cancelled order has not yet been shipped.
     Credit will be provided for any orders that have already been invoiced."
-    "Refunded", "Usually, this corresponds to a customer returning the goods within the agreed terms.
+    "Refunded", "A customer returns the goods within the agreed terms.
     An order that is refunded will show up as 2 lines in the invoice: once on the sale, and once for the refund deduction."
     
 Orders move between states as seen in this figure:
