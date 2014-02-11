@@ -9,7 +9,7 @@ General
 
 I already have a relationship with a retailer on the Rangespan network, how does that affect my existing relationship?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-It doesn’t. Rangespan’s relationship with both suppliers and retailers is non-exclusive and you are free to trade directly if you wish. However, we believe that Rangespan is a great way to greatly expand your range without spending money and resources on buying in new stock, managing suppliers and processing orders.
+It doesn’t. Rangespan’s relationship with both suppliers and retailers is non-exclusive and you are free to trade directly if you wish. However, we believe that Rangespan is a great way to greatly expand your range without spending money an    d resources on buying in new stock, managing suppliers and processing orders.
 
 Do I have to pay to list my product on the Rangespan network?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
