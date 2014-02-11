@@ -42,7 +42,7 @@ The minimum image resolution requirements are as follows:
 - **Asda** - 1000 x 1000 pixels 
 - **Ebuyer/Maplin** - minimum 500 x 500 pixels 
 - **Staples** - 750 x 750 pixels
-- Tesco - minimum 500 x 500 but subject to change
+- **Tesco** - minimum 500 x 500 but subject to change
 Note that all retailers require non-marked images with the products on a white background.
 
 I want to upload multiple images for a product. How can I do this?
@@ -108,9 +108,9 @@ The shipping methods to be offered by suppliers differ depending on the value of
 
 ..  :csv-table::
 
-    "Items Less than £40:","Standard Post"
-    "Items from £40 to £100:","Tracked Delivery"
-    "Items greater than £100:","Tracked Signed Delivery"
+    "Items Less than ï¿½40:","Standard Post"
+    "Items from ï¿½40 to ï¿½100:","Tracked Delivery"
+    "Items greater than ï¿½100:","Tracked Signed Delivery"
 
 4. RETAILER
 ===========
