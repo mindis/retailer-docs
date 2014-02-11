@@ -12,7 +12,7 @@ Once an order is placed, Rangespan's system assigns it to the best available sup
 
     Rangespan monitors agrregate fulfilment rates and processing times: this influence whether they get an order or not. We require that suppliers ship the item within 2 business days for standard delivery methods and within 1 day for expedited methods.
 
-The shipping method for the order is set based on the cost price of the item. An item worth less than £40 can be shipped un-tracked, unsigned. Items with a cost price between £40 and £100 need to be tracked, and any order worth above £100 needs to be tracked and signed for. Suppliers are responsible for getting the item to the end customer, and may upgrade the shipping method in some cases.
+The shipping method for the order is set based on the cost price of the item. An item worth less than 40 GBP can be shipped un-tracked, unsigned. Items with a cost price between 40 GBP and 100 GBP need to be tracked, and any order worth above 100 GBP needs to be tracked and signed for. Suppliers are responsible for getting the item to the end customer, and may upgrade the shipping method in some cases.
 
 The 'placed date' submitted by the retailer will be used to look up the cost price. This feature exists only to allow retailers to keep up-to-date pricing and availability for week-end orders even if the orders themselves are submitted a day or two later.
 
