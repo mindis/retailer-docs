@@ -46,13 +46,19 @@ Retailers access the best prices from our suppliers daily. API-integrated retail
 `Rangespan Order Management <http://rangespan-retailer-integration.readthedocs.org/en/latest/Order%20Management.html>`_
 -----------------------------------------------------------------------------------------------------------------------
 
+`Click through to full article <http://rangespan-retailer-integration.readthedocs.org/en/latest/Order%20Management.html>`_
+
+
 This page details the process behind:
-- `Placing an order <http://rangespan-retailer-integration.readthedocs.org/en/latest/Order%20Management.html#placing-an-order>`
-- `Tracking an order <http://rangespan-retailer-integration.readthedocs.org/en/latest/Order%20Management.html#order-status>`
+
+- `Placing an order <http://rangespan-retailer-integration.readthedocs.org/en/latest/Order%20Management.html#placing-an-order>`_
+- `Tracking an order <http://rangespan-retailer-integration.readthedocs.org/en/latest/Order%20Management.html#order-status>`_
 - `Cancelling an order <http://rangespan-retailer-integration.readthedocs.org/en/latest/Order%20Management.html#cancelling-an-order>`_
-- Order Delivery
-- Customer Enquiries
-- Returns
+- `Order Delivery
+<http://rangespan-retailer-integration.readthedocs.org/en/latest/Order%20Management.html#delivery-process>`_
+- `Customer Enquiries <http://rangespan-retailer-integration.readthedocs.org/en/latest/Order%20Management.html#customer-enquiries>`_
+- `Returns
+<http://rangespan-retailer-integration.readthedocs.org/en/latest/Order%20Management.html#order-returns>`_
 
 Technical Details
 =================
