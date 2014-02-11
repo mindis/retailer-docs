@@ -4,12 +4,12 @@ Supplier FAQs
 .. note:: If you cannot locate your specific query below, or you need to email us, you can get in touch at supplier-support@rangespan.com.
 
 
-General
-=======
+1. GENERAL
+==========
 
 I already have a relationship with a retailer on the Rangespan network, how does that affect my existing relationship?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-It doesn’t. Rangespan’s relationship with both suppliers and retailers is non-exclusive and you are free to trade directly if you wish. However, we believe that Rangespan is a great way to greatly expand your range without spending money an    d resources on buying in new stock, managing suppliers and processing orders.
+It doesn't. Rangespan's relationship with both suppliers and retailers is non-exclusive and you are free to trade directly if you wish. However, we believe that Rangespan is a great way to greatly expand your range without spending money an    d resources on buying in new stock, managing suppliers and processing orders.
 
 Do I have to pay to list my product on the Rangespan network?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -19,20 +19,20 @@ Who pays for your service, the supplier or the retailer?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 The retailer pays for the service, it is completely free for a supplier to work with us.
 
-We can’t drop-ship direct to individual end-customers from our warehouse, can I still be part of Rangespan’s network?
+We can't drop-ship direct to individual end-customers from our warehouse, can I still be part of Rangespan's network?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Yes, we offer fulfillment services and can refer capable 3rd party fulfillment operations, so please get in touch to discuss. 
 
 Who will the customer contact in case of any service issues?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-For any service issue, the customer contacts the retailer via their usual customer service route. Rangespan makes various tools available to the retailer’s customer service agents and will work with the supplier directly to resolve any exceptional issues.
+For any service issue, the customer contacts the retailer via their usual customer service route. Rangespan makes various tools available to the retailer's customer service agents and will work with the supplier directly to resolve any exceptional issues.
 
 What is a RIN?
 ++++++++++++++
-RIN stands for Rangespan Identification Number; this is Rangespan’s unique product identifier, and is matched on the barcode of the product and/or a Manufacturer and Manufacturer Part Number (MPN) combination.
+RIN stands for Rangespan Identification Number; this is Rangespan's unique product identifier, and is matched on the barcode of the product and/or a Manufacturer and Manufacturer Part Number (MPN) combination.
 
-Data
-=====
+2. DATA
+=======
 
 What are the image requirements for your retailers?
 +++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -54,8 +54,8 @@ I want to change the content/layout of my product(s) on a retailer website. What
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 If you want to adjust the data that appears on retailer websites, make the necessary changes to your catalogue feed (i.e. item names, item descriptions, images) and upload it. Once done, email the catalogue feed to us with the highlighted changes. Note that, whilst we have more freedom over product data on Tesco, other retailers choose how to display data on their websites. Therefore, it may be difficult to apply your suggestions.
 
-Feed-related
-============
+3. FEEDS
+========
 
 How do I update inventory for my products?
 ++++++++++++++++++++++++++++++++++++++++++
@@ -69,29 +69,29 @@ I want to upload a feed but I have forgotten my feed type.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 If you have migrated to the new feed types, your feed type for catalogue data is
 “Catalogue Feed”; for inventory data, the feed type is “Inventory Feed”. If you have not  
- migrated to the new feeds, please email us and we’ll confirm your feed type. Please note this for future usage.
+ migrated to the new feeds, please email us and we'll confirm your feed type. Please note this for future usage.
 
-I’m getting error messages when I try to upload a feed. How can I get these resolved?
+I'm getting error messages when I try to upload a feed. How can I get these resolved?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 See the feed troubleshooting guide. This is also available at the upload portal.
 
-I’ve just uploaded my feed and I want to check if the data has been uploaded correctly. How can I confirm this?
+I've just uploaded my feed and I want to check if the data has been uploaded correctly. How can I confirm this?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 If there are no errors with your feed upload, then your data has been uploaded successfully. You can check on the “Offers” tab on our website.
 
-What are the “Catalogue” and “Inventory” feeds? I’m not sure how to use the Rangespan feeds.
+What are the “Catalogue” and “Inventory” feeds? I'm not sure how to use the Rangespan feeds.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Please see the feed usage guide for information on our feeds and their usage.
 
-I’m an existing supplier that wants to migrate to the new catalogue and stripped-down inventory feeds. Is there some documentation to help me with this process?
+I'm an existing supplier that wants to migrate to the new catalogue and stripped-down inventory feeds. Is there some documentation to help me with this process?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Please see the feed migration guide.
 
-Why do you have two feeds? Why can’t I use one feed for both catalogue and inventory data?
+Why do you have two feeds? Why can't I use one feed for both catalogue and inventory data?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Since catalogue data does not need to be uploaded as regularly as inventory data, we allow suppliers to upload data with two feeds with the inventory upload being more regular. Additionally, uploading catalogue data daily risks corrupted data (such as barcodes) causing problems with your listings that may result in lost sales.
 
-I’m unsure on what data to include under certain columns in the feed. 
+I'm unsure on what data to include under certain columns in the feed. 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Please see the data definitions guide.
 
@@ -113,8 +113,8 @@ The shipping methods to be offered by suppliers differ depending on the value of
     "Items from £40 to £100:","Tracked Delivery"
     "Items greater than £100:","Tracked Signed Delivery"
 
-Retailer
-========
+4. RETAILER
+===========
 I have some new products that I want to make visible to retailers. How do I add these to Rangespan Search, and how can I increase the possibility of these being selected?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Please see the adding new products guide on how to add products to Rangespan  Search. To increase the possibility of these being selected, ensure your products have “good” data (as detailed in the above link) and are competitively priced. Trending products with favourable reviews have a very high chance of being selected by retailers.
@@ -129,7 +129,7 @@ My products are showing as out of stock with a retailer. Please advise.
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 If your products are showing as out of stock, either:
 - your products have zero inventory in your feed which is reflected on the retailer website. If the feed is showing positive inventory, and being uploaded successfully, there may be a system error, in which case you should contact us.
-- the cost prices (including shipping) have increased in your feed leading to a system generated out of stock status. Please revert to the original cost prices which is given in our weekly Retailer Listings report. You should be receiving this automatically every week, so please email us if you aren’t. Certain retailers make products unavailable if the prices are uncompetitive with Amazon. This is shown on the weekly Retailer Listings report that is emailed to you. If this is the case, please amend your prices to the target price shown on the report.
+- the cost prices (including shipping) have increased in your feed leading to a system generated out of stock status. Please revert to the original cost prices which is given in our weekly Retailer Listings report. You should be receiving this automatically every week, so please email us if you aren't. Certain retailers make products unavailable if the prices are uncompetitive with Amazon. This is shown on the weekly Retailer Listings report that is emailed to you. If this is the case, please amend your prices to the target price shown on the report.
 
 Why have my products been delisted with a retailer?
 +++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -149,8 +149,8 @@ What is the typical margin for a certain category with a retailer?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 The margin expectation differs from retailer to retailer and from category to category.  Amazon marketplace charges are good benchmarks while our large enterprise retailer partners usually expect higher.
 
-Order-related
-=============
+5. ORDER
+=========
 
 How do I process an order?
 +++++++++++++++++++++++++++
@@ -187,10 +187,10 @@ No, our retailers require that all items be dispatched in plain, unbranded packa
 
 Can we use our own packing slips? Can we use our own logo on the packing slip?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Rather than using Rangespan’s packing slip you can use our API integration options to download the key Rangespan packing slip information (retailer logo, returns barcodes) into your own dispatch system. However, we require that the packing slips contain only the retailer’s branding.
+Rather than using Rangespan's packing slip you can use our API integration options to download the key Rangespan packing slip information (retailer logo, returns barcodes) into your own dispatch system. However, we require that the packing slips contain only the retailer's branding.
 
-Returns
-=======
+6. RETURNS
+==========
 
 What are the costs associated with customer returns?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -204,12 +204,12 @@ Why do you require 45 days for returns?
 +++++++++++++++++++++++++++++++++++++++
 All our retailers offer 30 day return promises. The 45 day return period that Rangespan requires allows 15 days to get the product returned to the supplier once we have received if from the retailer. The vast majority of returns occur much sooner than this time period.
 
-Invoicing
-=========
+7. INVOICING
+============
 
 Do we need to send Rangespan invoices?
 ++++++++++++++++++++++++++++++++++++++
-Rangespan self-invoice’s on a monthly basis. Therefore there is no need for you to send invoices. We welcome monthly statements to be sent. This ensures disputes are resolved in a timely fashion.
+Rangespan self-invoice's on a monthly basis. Therefore there is no need for you to send invoices. We welcome monthly statements to be sent. This ensures disputes are resolved in a timely fashion.
 
 When do we receive our invoices?
 ++++++++++++++++++++++++++++++++
@@ -219,7 +219,7 @@ When will we receive payment?
 +++++++++++++++++++++++++++++
 The benefit of self-billing allows Rangespan to pay in a timely fashion. Payment will be made 7 days or earlier after each month end.
 
-I’ve just received my invoice, and there seems to be a miscalculation. Who should I talk to?
+I've just received my invoice, and there seems to be a miscalculation. Who should I talk to?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Note that your invoice is generated from the cost prices in your inventory feed. Kindly double-check these before emailing supplier-accounts@rangespan.com for invoice-related queries.	
 
