@@ -59,7 +59,7 @@ If you want to adjust the data that appears on retailer websites, make the neces
 
 How do I update inventory for my products?
 ++++++++++++++++++++++++++++++++++++++++++
-You can update inventory levels by updating the “Inventory” column for all products in your feed, saving this as a csv file, and uploading this by following the guide here.
+You can update inventory levels by updating the “Inventory” column for all products in your feed, saving this as a `csv file <https://www.rangespan.com/downloads/saving_csv.pdf>`_, and uploading this by following the guide `here <https://www.rangespan.com/downloads/uploading-feed-webUI.pdf>`_.
 
 I want to discontinue products with Rangespan. How should I do this?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -73,7 +73,7 @@ If you have migrated to the new feed types, your feed type for catalogue data is
 
 I'm getting error messages when I try to upload a feed. How can I get these resolved?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-See the feed troubleshooting guide. This is also available at the upload portal.
+See the `feed troubleshooting guide <https://www.rangespan.com/downloads/feed-troubleshooting.pdf>`_. This is also available at the `upload portal <https://www.rangespan.com/upload/>`_.
 
 I've just uploaded my feed and I want to check if the data has been uploaded correctly. How can I confirm this?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -81,11 +81,11 @@ If there are no errors with your feed upload, then your data has been uploaded s
 
 What are the “Catalogue” and “Inventory” feeds? I'm not sure how to use the Rangespan feeds.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Please see the feed usage guide for information on our feeds and their usage.
+Please see the `feed usage guide <https://www.rangespan.com/downloads/feed-usage.pdf>`_ for information on our feeds and their usage.
 
 I'm an existing supplier that wants to migrate to the new catalogue and stripped-down inventory feeds. Is there some documentation to help me with this process?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Please see the feed migration guide.
+Please see the `feed migration guide <https://www.rangespan.com/downloads/feed-migration.pdf>`_.
 
 Why do you have two feeds? Why can't I use one feed for both catalogue and inventory data?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -93,7 +93,7 @@ Since catalogue data does not need to be uploaded as regularly as inventory data
 
 I'm unsure on what data to include under certain columns in the feed. 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Please see the data definitions guide.
+Please see the `data definitions guide <https://www.rangespan.com/downloads/data-definitions.pdf>`_.
 
 I want to change the SKUs on my feed. Is this possible?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -117,7 +117,7 @@ The shipping methods to be offered by suppliers differ depending on the value of
 ===========
 I have some new products that I want to make visible to retailers. How do I add these to Rangespan Search, and how can I increase the possibility of these being selected?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Please see the adding new products guide on how to add products to Rangespan  Search. To increase the possibility of these being selected, ensure your products have “good” data (as detailed in the above link) and are competitively priced. Trending products with favourable reviews have a very high chance of being selected by retailers.
+Please see the `adding new products guide <https://www.rangespan.com/downloads/adding-new-products.pdf>`_ on how to add products to Rangespan  Search. To increase the possibility of these being selected, ensure your products have “good” data (as detailed in the above link) and are competitively priced. Trending products with favourable reviews have a very high chance of being selected by retailers.
 
 How does the retailer selection process work? How long will it take before my products are shown with a retailer?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -154,11 +154,11 @@ The margin expectation differs from retailer to retailer and from category to ca
 
 How do I process an order?
 +++++++++++++++++++++++++++
-Please see the guide here. This is available at the order portal by clicking on the Help button.
+Please see the guide `here <https://www.rangespan.com/downloads/order-management-webUI.pdf>`_. This is available at the `order portal <https://www.rangespan.com/orders/supplier/>`_ by clicking on the Help button.
 
 Can I process orders in bulk?
 +++++++++++++++++++++++++++++
-Yes, please see the bulk order processing guide here.
+Yes, please see the bulk order processing guide `here <https://www.rangespan.com/downloads/Bulk_Order_Processing_via_UI_Documentation.pdf>`_.
 
 What is the difference between a Rangespan Order ID and a Rangespan Assignment Reference?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
