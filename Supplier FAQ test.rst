@@ -59,7 +59,7 @@ If you want to adjust the data that appears on retailer websites, make the neces
 
 How do I update inventory for my products?
 ++++++++++++++++++++++++++++++++++++++++++
-You can update inventory levels by updating the “Inventory” column for all products in your feed, saving this as a `csv file <https://www.rangespan.com/downloads/saving_csv.pdf>`_, and uploading this by following the guide `here <https://www.rangespan.com/downloads/uploading-feed-webUI.pdf>`_.
+You can update inventory levels by updating the "Inventory" column for all products in your feed, saving this as a `csv file <https://www.rangespan.com/downloads/saving_csv.pdf>`_, and uploading this by following the guide `here <https://www.rangespan.com/downloads/uploading-feed-webUI.pdf>`_.
 
 I want to discontinue products with Rangespan. How should I do this?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -67,9 +67,7 @@ Delete the entire line in the inventory feed and upload the file.
 
 I want to upload a feed but I have forgotten my feed type.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-If you have migrated to the new feed types, your feed type for catalogue data is
-“Catalogue Feed”; for inventory data, the feed type is “Inventory Feed”. If you have not  
- migrated to the new feeds, please email us and we'll confirm your feed type. Please note this for future usage.
+If you have migrated to the new feed types, your feed type for catalogue data is "Catalogue Feed"; for inventory data, the feed type is "Inventory Feed". If you have not migrated to the new feeds, please email us and we'll confirm your feed type. Please note this for future usage.
 
 I'm getting error messages when I try to upload a feed. How can I get these resolved?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -77,9 +75,9 @@ See the `feed troubleshooting guide <https://www.rangespan.com/downloads/feed-tr
 
 I've just uploaded my feed and I want to check if the data has been uploaded correctly. How can I confirm this?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-If there are no errors with your feed upload, then your data has been uploaded successfully. You can check on the “Offers” tab on our website.
+If there are no errors with your feed upload, then your data has been uploaded successfully. You can check on the "Offers" tab on our website.
 
-What are the “Catalogue” and “Inventory” feeds? I'm not sure how to use the Rangespan feeds.
+What are the "Catalogue" and "Inventory" feeds? I'm not sure how to use the Rangespan feeds.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Please see the `feed usage guide <https://www.rangespan.com/downloads/feed-usage.pdf>`_ for information on our feeds and their usage.
 
@@ -117,7 +115,7 @@ The shipping methods to be offered by suppliers differ depending on the value of
 ===========
 I have some new products that I want to make visible to retailers. How do I add these to Rangespan Search, and how can I increase the possibility of these being selected?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Please see the `adding new products guide <https://www.rangespan.com/downloads/adding-new-products.pdf>`_ on how to add products to Rangespan  Search. To increase the possibility of these being selected, ensure your products have “good” data (as detailed in the above link) and are competitively priced. Trending products with favourable reviews have a very high chance of being selected by retailers.
+Please see the `adding new products guide <https://www.rangespan.com/downloads/adding-new-products.pdf>`_ on how to add products to Rangespan  Search. To increase the possibility of these being selected, ensure your products have "good" data (as detailed in the above link) and are competitively priced. Trending products with favourable reviews have a very high chance of being selected by retailers.
 
 How does the retailer selection process work? How long will it take before my products are shown with a retailer?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
