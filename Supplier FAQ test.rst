@@ -106,11 +106,11 @@ What shipping methods do we need to provide?
 ++++++++++++++++++++++++++++++++++++++++++++
 The shipping methods to be offered by suppliers differ depending on the value of the item:
 
-..  :csv-table::
+..  csv-table::
 
-    "Items Less than �40:","Standard Post"
-    "Items from �40 to �100:","Tracked Delivery"
-    "Items greater than �100:","Tracked Signed Delivery"
+    "Items Less than £40:","Standard Post"
+    "Items from £40 to £100:","Tracked Delivery"
+    "Items greater than £100:","Tracked Signed Delivery"
 
 4. RETAILER
 ===========
