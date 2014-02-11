@@ -14,7 +14,7 @@ Features
 
 `Rangespan Product Search <1%20-%20Rangespan%20Product%20Search.html>`_ 
 ------------------------------------------------------------------------
-
+    
 The rangespan.com/range page allows you to:
     - `Research Products within the larger online market <1%20-%20Rangespan%20Product%20Search.html#research-products>`_
     - `Find Relevant Products sourced by Rangespan <1%20-%20Rangespan%20Product%20Search.html#find-selection>`_
@@ -43,6 +43,16 @@ Rangespan aggregates, transforms and performs Quality Control on item data from 
 Retailers access the best prices from our suppliers daily. API-integrated retailers have access to live inventory; we update SFTP-integrated retailers 4 times a day with the latest availability. 
 
 
+`Rangespan Order Management <http://rangespan-retailer-integration.readthedocs.org/en/latest/Order%20Management.html>`
+----------------------------------------------------------------------------------------------------------------------
+
+This page details the process behind:
+- `Placing an order <http://rangespan-retailer-integration.readthedocs.org/en/latest/Order%20Management.html#placing-an-order>`
+- `Tracking an order <http://rangespan-retailer-integration.readthedocs.org/en/latest/Order%20Management.html#order-status>`
+- `Cancelling an order <http://rangespan-retailer-integration.readthedocs.org/en/latest/Order%20Management.html#cancelling-an-order>`_
+- Order Delivery
+- Customer Enquiries
+- Returns
 
 Technical Details
 =================
