@@ -34,13 +34,13 @@ Orders will be in one of the following states:
     These have not yet been assigned to a supplier for shipment."
     "Processing", "Orders have been assigned to a supplier for shipment.
     Before returning a product, some suppliers might prefer a replacement to a refund.
-In these cases the order is placed into 'Processing' again."
+    In these cases the order is placed into 'Processing' again."
     "At Risk", "Rangespan escalates any issues with 'At Risk' orders
     Usually, this involves following up with our vendors."
     "Shipped", "Order has been shipped.
     Depending on the shipping method, it can be 1-3 days before the customer receives the item.
-If the supplier uses a tracked delivery method (higher value orders) 
-tracking details are made available from the time an order enters this state."
+    If the supplier uses a tracked delivery method (higher value orders) 
+    tracking details are made available from the time an order enters this state."
     "Cancelled", "A cancelled order has not yet been shipped.
     Credit will be provided for any orders that have already been invoiced."
     "Refunded", "A customer returns the goods within the agreed terms.
