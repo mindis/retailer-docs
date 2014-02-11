@@ -37,6 +37,7 @@ RIN stands for Rangespan Identification Number; this is Rangespan's unique produ
 What are the image requirements for your retailers?
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 The minimum image resolution requirements are as follows:
+
 - **Argos** - 700 x 700 pixels
 - **Asda** - 1000 x 1000 pixels 
 - **Ebuyer/Maplin** - minimum 500 x 500 pixels 
