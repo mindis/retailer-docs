@@ -43,8 +43,8 @@ Rangespan aggregates, transforms and performs Quality Control on item data from 
 Retailers access the best prices from our suppliers daily. API-integrated retailers have access to live inventory; we update SFTP-integrated retailers 4 times a day with the latest availability. 
 
 
-`Rangespan Order Management <http://rangespan-retailer-integration.readthedocs.org/en/latest/Order%20Management.html>`
-----------------------------------------------------------------------------------------------------------------------
+`Rangespan Order Management <http://rangespan-retailer-integration.readthedocs.org/en/latest/Order%20Management.html>`_
+-----------------------------------------------------------------------------------------------------------------------
 
 This page details the process behind:
 - `Placing an order <http://rangespan-retailer-integration.readthedocs.org/en/latest/Order%20Management.html#placing-an-order>`
